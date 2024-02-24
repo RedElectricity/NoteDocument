@@ -1,11 +1,10 @@
-* [:1234:Mathematics](/Math/README.md)
+* [:1234:Mathematics](/Math/)
 
-* [:test_tube:Chemistry](/Chemistry/README.md)
+* [:test_tube:Chemistry](/Chemistry/)
 
-* [:atom_symbol:Physics](/Physics/README.md)
-  * [:magnet:Electromagnetic](/Physics/Electromagnetic/README.md)
+* [:atom_symbol:Physics](/Physics/)
 
-* [:microbe:Biology](/Biology/README.md)
+* [:microbe:Biology](/Biology/)
 
-* [:desktop_computer:Computer](/Computer/README.md)
+* [:desktop_computer:Computer](/Computer/)
 

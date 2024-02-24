@@ -1,1 +1,3 @@
-- [电磁学](Electromagnetic/README.md)
+- 快速目录
+  - [:house:Home](/)
+- [:magnet:Electromagnetic](Electromagnetic/)
